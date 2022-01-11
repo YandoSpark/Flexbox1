@@ -1,0 +1,17 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.container-1{
+    display:flex;
+    flex-wrap: wrap;
+}
+.container-1 div{
+    border:3px #22ee22 solid;
+    padding:10px;
+  }
+
+  h3 {
+      cursor: grab;
+  }
+  
